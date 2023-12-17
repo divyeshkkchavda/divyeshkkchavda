@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyeshkkchavda
 - 👀 I’m interested in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) and Natural Language Processing (NLP).
-- 🌱 I’m currently pursuing M.Sc. in AI & ML. And also, I'm Data Science Intern @dataslush.
+- 🌱 I’m currently pursuing M.Sc. in AI & ML. And also, Data Science Intern @dataslush.
 - 📫 How to reach me:
 
   | Mail | [divyeshkkchavda@gmail.com](mailto:divyeshkkchavda@gmail.com) |
